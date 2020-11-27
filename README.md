@@ -1,4 +1,4 @@
-# 30DayMapChallenge_2020
+# 30DayMapChallenge 2020
 
 This repository includes the maps produced for the 2020 edition of the **#30DayMapChallenge** 🌎🌏🌎
 
