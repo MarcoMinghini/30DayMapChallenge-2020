@@ -14,11 +14,16 @@ Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
 ![Day 1 - Points](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
 
+_________________
+
 ## Day 2 | Lines
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
 ![Day 2 - Lines](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day02_Lines.png?raw=true)
+
+_________________
+
 
 ## Day 3 | Polygons
 
