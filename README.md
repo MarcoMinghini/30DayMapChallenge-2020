@@ -72,7 +72,7 @@ Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 11 - 3D](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day11_3D.png?raw=true)
+![Day 11 - 3D](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day11_3D.gif?raw=true)
 
 ## Day 12 | Map not made with GIS software
 
@@ -138,7 +138,7 @@ Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 22 - Movement](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day22_Movement.png?raw=true)
+![Day 22 - Movement](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day22_Movement.gif?raw=true)
 
 ## Day 23 | Boundaries
 
@@ -156,7 +156,7 @@ Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 25 - COVID-19](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day25_COVID-19.png?raw=true)
+![Day 25 - COVID-19](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day25_COVID-19.gif?raw=true)
 
 ## Day 26 | Map with a new tool
 
