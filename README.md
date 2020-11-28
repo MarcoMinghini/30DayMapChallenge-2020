@@ -18,163 +18,163 @@ Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 2 - Lines](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 2 - Lines](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day02_Lines.png?raw=true)
 
 ## Day 3 | Polygons
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 3 - Polygons](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 3 - Polygons](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day03_Polygons.png?raw=true)
 
 ## Day 4 | Hexagons
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 4 - Hexagons](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 4 - Hexagons](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day04_Hexagons.png?raw=true)
 
 ## Day 5 | Blue
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 5 - Blue](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 5 - Blue](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day05_Blue.png?raw=true)
 
 ## Day 6 | Red
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 6 - Red](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 6 - Red](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day06_Red.png?raw=true)
 
 ## Day 7 | Green
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 7 - Green](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 7 - Green](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day07_Green.png?raw=true)
 
 ## Day 8 | Yellow
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 8 - Yellow](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 8 - Yellow](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day08_Yellow.png?raw=true)
 
 ## Day 9 | Monochrome
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 9 - Monochrome](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 9 - Monochrome](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day09_Monochrome.png?raw=true)
 
 ## Day 10 | Grid
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 10 - Grid](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 10 - Grid](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day10_Grid.png?raw=true)
 
 ## Day 11 | 3D
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 11 - 3D](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 11 - 3D](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day11_3D.png?raw=true)
 
 ## Day 12 | Map not made with GIS software
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 12 - Map not made with GIS software](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 12 - Map not made with GIS software](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day12_Map not made with GIS software?raw=true)
 
 ## Day 13 | Raster
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 13 - Raster](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 13 - Raster](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day13_Raster.png?raw=true)
 
 ## Day 14 | Climate change
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 14 - Climate change](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 14 - Climate change](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day14_Climate change.png?raw=true)
 
 ## Day 15 | Connections
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 15 - Connections](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 15 - Connections](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day15_Connections.png?raw=true)
 
 ## Day 16 | Island(s)
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 16 - Island(s)](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 16 - Island(s)](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day16_Island(s).png?raw=true)
 
 ## Day 17 | Historical map
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 17 - Historical map](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 17 - Historical map](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day17_Historical map.png?raw=true)
 
 ## Day 18 | Landuse
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 18 - Landuse](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 18 - Landuse](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day18_Landuse.png?raw=true)
 
 ## Day 19 | NULL
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 19 - NULL](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 19 - NULL](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day19_NULL.png?raw=true)
 
 ## Day 20 | Population
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 20 - Population](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 20 - Population](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day20_Population.png?raw=true)
 
 ## Day 21 | Water
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 21 - Water](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 21 - Water](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day21_Water.png?raw=true)
 
 ## Day 22 | Movement
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 22 - Movement](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 22 - Movement](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day22_Movement.png?raw=true)
 
 ## Day 23 | Boundaries
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 23 - Boundaries](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 23 - Boundaries](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day23_Boundaries.png?raw=true)
 
 ## Day 24 | Elevation
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 24 - Elevation](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 24 - Elevation](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day24_Elevation.png?raw=true)
 
 ## Day 25 | COVID-19
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 25 - COVID-19](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 25 - COVID-19](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day25_COVID-19.png?raw=true)
 
 ## Day 26 | Map with a new tool
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 26 - Map with a new tool](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 26 - Map with a new tool](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day26_Map with a new tool.png?raw=true)
 
 ## Day 27 | Big or small data
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 27 - Big or small data](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 27 - Big or small data](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day27_Big or small data.png?raw=true)
 
 ## Day 28 | Non-geographic map
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 28 - Non-geographic map](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 28 - Non-geographic map](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day28_Non-geographic map.png?raw=true)
 
 ## Day 29 | Globe
 
