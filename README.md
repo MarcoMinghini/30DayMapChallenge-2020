@@ -78,7 +78,7 @@ Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 12 - Map not made with GIS software](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day12_Map not made with GIS software?raw=true)
+![Day 12 - Map not made with GIS software](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day12_Map%20not%20made%20with%20GIS%20software?raw=true)
 
 ## Day 13 | Raster
 
