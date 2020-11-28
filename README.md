@@ -78,7 +78,7 @@ Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 12 - Map not made with GIS software](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day12_Map%20not%20made%20with%20GIS%20software?raw=true)
+![Day 12 - Map not made with GIS software](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day12_Map_not_made_with_GIS_software.png?raw=true)
 
 ## Day 13 | Raster
 
@@ -90,7 +90,7 @@ Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 14 - Climate change](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day14_Climate change.png?raw=true)
+![Day 14 - Climate change](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day14_Climate_change.png?raw=true)
 
 ## Day 15 | Connections
 
@@ -108,7 +108,7 @@ Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 17 - Historical map](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day17_Historical map.png?raw=true)
+![Day 17 - Historical map](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day17_Historical_map.png?raw=true)
 
 ## Day 18 | Landuse
 
@@ -162,19 +162,19 @@ Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 26 - Map with a new tool](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day26_Map with a new tool.png?raw=true)
+![Day 26 - Map with a new tool](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day26_Map_with_a_new_tool.png?raw=true)
 
 ## Day 27 | Big or small data
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 27 - Big or small data](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day27_Big or small data.png?raw=true)
+![Day 27 - Big or small data](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day27_Big_or_small_data.png?raw=true)
 
 ## Day 28 | Non-geographic map
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 28 - Non-geographic map](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day28_Non-geographic map.png?raw=true)
+![Day 28 - Non-geographic map](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day28_Non-geographic_map.png?raw=true)
 
 ## Day 29 | Globe
 
