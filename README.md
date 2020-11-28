@@ -12,6 +12,9 @@ Producing 30 maps in 30 days is really hard, so this year I joined forces with m
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
+![Day1 - Points](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+
+
 ## Day 2 | Lines
 
 
