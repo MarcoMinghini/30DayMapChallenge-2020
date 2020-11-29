@@ -239,7 +239,7 @@ _________________
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 29 - Globe](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 29 - Globe](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day29_Globe.png?raw=true)
 
 _________________
 
@@ -247,6 +247,6 @@ _________________
 
 Data sources: xxx. Software used: QGIS. Tweet available [here]().
 
-![Day 30 - A map](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
+![Day 30 - A map](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day30_A_map.png?raw=true)
 
 _________________
