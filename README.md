@@ -229,7 +229,7 @@ _________________
 
 ## Day 28 | Non-geographic map
 
-Data sources: xxx. Software used: QGIS. Tweet available [here](https://twitter.com/MarcoMinghini/status/1332619936359997441).
+Data source: [theMountainGoats](https://twitter.com/serMountainGoat) from [this Forum thread](https://www.cartographersguild.com/showthread.php?t=30472). Software used: QGIS. Tweet available [here](https://twitter.com/MarcoMinghini/status/1332619936359997441).
 
 ![Day 28 - Non-geographic map](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day28_Non-geographic_map.png?raw=true)
 
