@@ -237,7 +237,8 @@ _________________
 
 ## Day 29 | Globe
 
-Data sources: xxx. Software used: QGIS. Tweet available [here](https://twitter.com/MarcoMinghini/status/1332979928279752706).
+Data source: [Natural Earth](https://www.naturalearthdata.com/downloads/10m-gray-earth/gray-earth-with-shaded-relief-ocean-bottom-and-drainages/). Software used: QGIS (inspired by [this tutorial](http://www.statsmapsnpix.com/2019/09/globe-projections-and-insets-in-qgis.html
+)). Tweet available [here](https://twitter.com/MarcoMinghini/status/1332979928279752706).
 
 ![Day 29 - Globe](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day29_Globe.png?raw=true)
 
