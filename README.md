@@ -12,7 +12,7 @@ _________________
 
 ## Day 1 | Points
 
-Data sources: [© OpenStreetMap contributors](https://www.openstreetmap.org/copyright), [GHS Population Grid - JRC](https://ghsl.jrc.ec.europa.eu/ghs_pop.php). Software used: QGIS. Tweet available [here](https://twitter.com/MarcoMinghini/status/1322864448269373440).
+Data sources: [© OpenStreetMap contributors](https://www.openstreetmap.org/copyright), [GHS Population Grid - JRC](https://ghsl.jrc.ec.europa.eu/ghs_pop.php). Software used: [QGIS](https://qgis.org). Tweet available [here](https://twitter.com/MarcoMinghini/status/1322864448269373440).
 
 ![Day 1 - Points](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day01_Points.png?raw=true)
 
