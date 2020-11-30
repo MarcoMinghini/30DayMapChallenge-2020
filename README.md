@@ -246,7 +246,7 @@ _________________
 
 ## Day 30 | A map
 
-Data sources: the previous 29 maps. Software used: [Illustrator](https://www.adobe.com/it/products/illustrator.html). Tweet available [here]().
+Data sources: the previous 29 maps. Software used: [Illustrator](https://www.adobe.com/it/products/illustrator.html). Tweet available [here](https://twitter.com/MarcoMinghini/status/1333318436110430209).
 
 ![Day 30 - A map](https://github.com/MarcoMinghini/30DayMapChallenge-2020/blob/main/maps/Day30_A_map.png?raw=true)
 
